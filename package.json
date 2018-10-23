@@ -1,0 +1,23 @@
+{
+  "name": "curso-api-res",
+  "version": "1.0.0",
+  "description": "Curso de Api Rest de Marcus Bruno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloupgrad/aprendendo-api-rest.git"
+  },
+  "keywords": [
+    "api",
+    "rest"
+  ],
+  "author": "Paulo Feltz Pinheiro",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/pauloupgrad/aprendendo-api-rest/issues"
+  },
+  "homepage": "https://github.com/pauloupgrad/aprendendo-api-rest#readme"  
+}
