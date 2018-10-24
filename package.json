@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/pauloupgrad/aprendendo-api-rest/issues"
   },
-  "homepage": "https://github.com/pauloupgrad/aprendendo-api-rest#readme"  
+  "homepage": "https://github.com/pauloupgrad/aprendendo-api-rest#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
